@@ -1,0 +1,6 @@
+[info] Loading global plugins from C:\Users\ZoonZi\.sbt\1.0\plugins
+[error] [C:\Users\ZoonZi\workspace\hello-world\project\plugins.sbt]:1: unclosed character literal (or use " not ' for string literal)
+[error] [C:\Users\ZoonZi\workspace\hello-world\project\plugins.sbt]:1: ';' expected but something found.
+Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? 0
+Invalid response.
+Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? q
